@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST=function(e){return{__rewrites:{afterFiles:[],beforeFiles:[],fallback:[]},__routerFilterStatic:e,__routerFilterDynamic:e,"/_error":["static/chunks/pages/_error-bd129d02791125e2.js"],sortedPages:["/_app","/_error"]}}(void 0),self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
